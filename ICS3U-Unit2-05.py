@@ -2,7 +2,7 @@
 #
 # Created by: Evgeny Vovk
 # Created on: October 2022
-# ICS3U-Unit2-05.py File, learning input process and output in python.
+# ICS3U-Unit2-05.py File, learning global and local variables in python.
 
 # global variable
 variable_X = 25
